@@ -5,7 +5,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=jakii971&label=Profile%20views&color=brightgreen" alt="watching_count" />
 </p>
 
 <p>I am passionate about web development and building great user experiences.</p>
@@ -54,25 +54,29 @@ const jaki = {
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+<br/>
 
- 
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakii971&show_icons=true&locale=en&layout=compact" alt="jakii971" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
 
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="www.linkedin.com/in/mynameisjaki/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/jak_zaki/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
+<a href="izzudinlagi971@gmail.com" >
   <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

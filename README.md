@@ -69,13 +69,13 @@ const jaki = {
   </div>
 <p align="center">
 <a href="www.linkedin.com/in/mynameisjaki/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Jaki | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/jak_zaki/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Jaki | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="izzudinlagi971@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Jaki | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
